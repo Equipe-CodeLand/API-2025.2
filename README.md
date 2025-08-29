@@ -71,7 +71,6 @@ linguagem natural para rápida compreensão do contexto dos negócios.
         <td> 23/11/2025 </td>
         <td> ✖ </td>
         <td> </td>
-        
     </tr>
 </table>
 
@@ -88,7 +87,7 @@ linguagem natural para rápida compreensão do contexto dos negócios.
 <!--<img src="./docs/UserStories.png" width=700/>-->
 <br>
 <h2> Padrão de Commit </h2>
-<img src="./docs/PadraoCommit.png" width=700 />
+<!--<img src="./docs/PadraoCommit.png" width=700 /> -->
 <br>
 
 <span id="equipe">
@@ -125,7 +124,7 @@ linguagem natural para rápida compreensão do contexto dos negócios.
         <td> <a href="https://github.com/fecosta290"> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00B6A3'/> </a> </td>
     </tr>
   <tr>
-     <td> <img src="https://avatars.githubusercontent.com/u/110743347?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
+     <td><img src="https://avatars.githubusercontent.com/u/125418833?v=4" alt="ft de perfil" height="32px" width="32px"> </td>
           <td> Dev Team </td>
           <td> Laura Gabriel Gonçalves </td>
           <td> <a href="[https://www.linkedin.com/in/eulauragabriel](https://www.linkedin.com/in/eulauragabriel)"> <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00B6A3'/> </a> </td>
