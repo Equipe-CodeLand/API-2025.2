@@ -74,19 +74,21 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
 
 <br>
 
-<span id="backlog">
-<h2> Backlog Primeira Sprint </h2>
-  <!--<img src="./docs/BacklogSprint3.png" width=700 /> -->
-<br>
-<h3> Requisitos </h3>
-<!--<img src="./docs/Requisitos.png" width=700 /> -->
-<br>
-<h3> User Stories </h3>
-<!--<img src="./docs/UserStories.png" width=700/>-->
-<br>
-<h2> Padrão de Commit </h2>
-<!--<img src="./docs/PadraoCommit.png" width=700 /> -->
-<br>
+<div>
+
+## Backlog Primeira Sprint
+<img src="./docs/SprintBacklog-1.png" width="700"/>
+
+### Requisitos
+<img src="./docs/Epicos.png" width="700"/>
+
+### User Stories
+<img src="./docs/UserStories.png" width="700"/>
+
+## Padrão de Commit
+<img src="./docs/PadraoCommit.png" width="700"/>
+
+</div>
 
 <span id="equipe">
 
