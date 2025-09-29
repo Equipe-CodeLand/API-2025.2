@@ -30,7 +30,7 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
 <br>
 
 <h2> 🎯 MVP </h2>
-
+<img src="./docs/mvp-sprint1.gif" width="700"/>
 <br>
 
 <span id="entregas">
