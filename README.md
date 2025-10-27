@@ -74,7 +74,6 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
 
 <br>
 
-<div>
 
 ## Backlog Primeira Sprint
 <img src="./docs/SprintBacklog-1.png" width="700"/>
@@ -91,7 +90,6 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
 ## Padrão de Commit
 <img src="./docs/PadraoCommit.png" width="700"/>
 
-</div>
 
 <span id="equipe">
 
