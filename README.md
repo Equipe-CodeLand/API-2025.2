@@ -30,7 +30,7 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
 <br>
 
 <h2> 🎯 MVP </h2>
-<img src="./docs/mvp-sprint1.gif" width="700"/>
+<img src="./docs/mvp-sprint2.gif" width="700"/>
 <br>
 
 <span id="entregas">
@@ -51,16 +51,16 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
         <td> 1 </td>
         <td> 08/09/2025 </td>
         <td> 28/09/2025 </td>
-        <td> ✖ </td>
-        <td> </td>
+        <td> ✔️ </td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2025.2/wiki/API%E2%80%902025.2-%E2%80%90-Sprint-1">Wiki</a> </td>
         <!--<td> Concluída </td>-->
     </tr>
      <tr align="center">
         <td> 2 </td>
         <td> 06/10/2025 </td>
         <td> 26/10/2025 </td>
-        <td> ✖ </td>
-        <td>  </td>
+        <td> ✔️</td>
+        <td> <a href="https://github.com/Equipe-CodeLand/API-2025.2/wiki/API%E2%80%902025.2-%E2%80%90-Sprint-2">Wiki</a> </td>
         <!--<td> Concluída </td> -->
     </tr>
     <tr align="center">
@@ -78,6 +78,9 @@ O projeto para API (Aprendizagem por Projeto Integrado) do 6° semestre de Desen
 
 ## Backlog Primeira Sprint
 <img src="./docs/SprintBacklog-1.png" width="700"/>
+
+## Backlog Segunda Sprint
+<img src="./docs/SprintBacklog-2.png" width="700"/>
 
 ### Requisitos
 <img src="./docs/Epicos.png" width="700"/>
